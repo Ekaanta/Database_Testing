@@ -1,7 +1,6 @@
 Database Testing with MongoDB and Python
 Setup and Installation
-Clone this repository to your local machine:Clone this repository to your local machine:
-
+Clone this repository to local machine: 
 bash
 Copy
 git clone mongodb+srv://durjoy:Kzifub0X9e2u4RlC@cluster0.jx0fabg.mongodb.net/
@@ -11,7 +10,7 @@ Install the required Python packages by running:
 bash
 Copy
 pip install -r requirements.txt
-Testing result in brllow :
+Testing results below:
 ![datatest1](https://github.com/user-attachments/assets/02b60c84-f499-4f71-b48b-5919edbbdd16)
 ![datatest2](https://github.com/user-attachments/assets/650c7bbe-0bb5-4d1b-beb7-83a04864b6e6)
 ![datatest3](https://github.com/user-attachments/assets/3ce197c1-7c90-4395-947d-fcf712b6a23d)
